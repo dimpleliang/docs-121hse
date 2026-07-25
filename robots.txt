@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-tok9ve.cuankita.space/sitemap.xml
